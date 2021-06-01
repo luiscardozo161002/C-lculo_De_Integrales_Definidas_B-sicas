@@ -30,7 +30,7 @@ operacion=(2*b.^3/2./(3/2))-(2*a.^3/2./(3/2));
 %imprime el valor de la operacion
 fprintf('El valor de la velocidad (distancia/tiempo) al utilizar el T.F.C.es:%2.1f\n',operacion)
 
-%DISTANCIA QUE RRECORRE LA PARTIDULA EN LA 2DA, 3ERA Y 4TA HORA
+%DISTANCIA QUE RRECORRE LA PARTICULA EN LA 2DA, 3ERA Y 4TA HORA
 %La formula para la velocidad=distancia/Tiempo; Por lo que convertiremos la formula para obtener la "distancia"
 %La formula para la distancia=Velocidad/Tiempo; Ahora si podemos obtener la distancia en las horas solicitadas
 
