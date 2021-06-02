@@ -41,6 +41,10 @@ fprintf('Distancia que rrecorre la particula en millas durante la 3er hora es:%2
 Distancia4=operacion*4;
 fprintf('Distancia que rrecorre la particula en millas durante la 4ta hora es:%2.1f\n',Distancia4)
 
+%Calculo del total de distancia que rrecorrio la particula (de t=1 a t=4) 
+DistanciaTotal=operacion+Distancia2+Distancia3+Distancia4;
+fprintf('Total de distancia(millas/hora) que rrecorrio la particula (de t=1 a t=4)es:%2.1f\n',DistanciaTotal)
+
 %Define los intervalos y el numero de rectangulos.
 a = 1;
 b = 4;
