@@ -76,7 +76,7 @@ hold on
 plot(x2,y2);
 
 %Asigna un nombre a la grafica 
-title("Ejericicio 2: Integral definida de 1 hasta 4  v(t)=√dt ");
+title("Ejericicio 1: Distancia de la particula recorrida durante (de t=1 a t=4) ");
 
 %Etiquetas de x,y
 xlabel('Tiempo(horas)') 
